@@ -119,7 +119,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                               ),
                             ),
                             Text(
-                              'ENTRAR AGORA',
+                              'CLIQUE PARA ENTRAR',
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
